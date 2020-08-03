@@ -1,0 +1,2 @@
+rootProject.name='HSelfiSmile'
+include ':app'
